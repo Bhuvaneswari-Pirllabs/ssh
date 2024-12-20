@@ -50,12 +50,4 @@ sudo systemctl enable ssh
 sudo systemctl disable ssh
 ```
 
-10.**the image of ssh:**
-![ssh_image](ssh.png)```terminal
-exit
 
-
-
-11.**The resource:**
-[Resources](https://www.cloudflare.com/learning/access-management/what-is-ssh/#:~:text=What%20is%20the%20Secure%20Shell,and%20encrypt%20connections%20between%20devices.)
- 
