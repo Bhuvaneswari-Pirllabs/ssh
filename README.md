@@ -10,7 +10,6 @@ sudo apt install openssh-server
 2.**start:**
 ```terminal
 sudo systemctl enable ssh
-git push --set-upstream origin new2
 ```
 
 3.**status :**
